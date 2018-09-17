@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.jumbotron{
+    width: 100% !important;
+    background: skyblue;
+}
+
+.btn{
+    margin-bottom: 15px;
+    margin-top: 12px;
+}
+
+.form-group{
+    padding: 14px;
+    padding-top: 20px;
+}
+
+#login{
+    border-radius: 5px;
+    width: 300px;
+    height: auto;
+    margin: 0 auto;
+    background: white;
+}
+
+#signin{
+    border-radius: 5px;
+    width: 300px;
+    height: auto;
+    margin: 0 auto;
+    background: white;
+}
